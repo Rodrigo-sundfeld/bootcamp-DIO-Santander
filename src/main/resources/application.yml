@@ -7,7 +7,6 @@ spring:
   datasource:
     driver-class-name: org.postgresql.Driver
     url: postgres://demggxkbbpljyh:4fbbd4cf85b1a404c2b5f068d59c1fa1f3c12c0ed22d5c62dfe3aa4ec2ab1e27@ec2-23-21-229-200.compute-1.amazonaws.com:5432/dfnp9eqp4j23da
-
     username: demggxkbbpljyh
     password: 4fbbd4cf85b1a404c2b5f068d59c1fa1f3c12c0ed22d5c62dfe3aa4ec2ab1e27
   jpa:
